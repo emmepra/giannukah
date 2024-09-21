@@ -132,7 +132,6 @@ export const bestemmie = [
   "porca madonna",
   "puttana madonna",
   "puttana la madonna",
-  "madonna discord",
   "dio frocio",
   "dio cappuccio",
   "dioaccecato",
@@ -266,7 +265,6 @@ export const bestemmie = [
   "porcamadonna",
   "puttanamadonna",
   "puttanalamadonna",
-  "madonnadiscord",
   "diofrocio",
   "diocappuccio",
   "porcoddio"
